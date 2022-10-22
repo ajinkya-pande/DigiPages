@@ -1,0 +1,168 @@
+/*  
+* HEADER 
+*/
+
+header {
+    min-height: 40px;
+    padding: 10px;
+    backdrop-filter: blur(30px);
+    box-shadow: 0 4px 15px 0px rgba(0, 0, 0, 0.4)
+}
+
+.pageName {
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    font-weight: 1000;
+    margin-left: 20px;
+}
+
+.navMenus {
+    width: 60%;
+    visibility: visible;
+}
+
+.navMenus ul {
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+.navMenus ul li {
+    list-style-type: none;
+}
+
+.navMenus ul li p{
+    height: 35px;
+    min-width: 70px;
+    width: auto;
+    padding: 1px 15px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+
+    text-decoration: none;
+    color: var(--primaryColor);
+    font-size: 16px;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(100px);
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.5);
+}
+
+.navMenus ul li p:hover {
+    background-image: var(--primaryLG);
+    color: var(--secondaryColor);
+    font-weight: 600;
+    transition: 0.1s;
+    translate: 0 -3px;
+}
+
+#menuBtn {
+    display: none;
+}
+
+#closeNavBtn {
+    display: none;
+}
+
+.loginCart {
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+/*
+ * FOOTER
+ */
+
+footer {
+    min-height: 40px;
+    padding: 10px;
+    backdrop-filter: blur(30px);
+    box-shadow: 0 -4px 15px 0px rgba(0, 0, 0, 0.4);
+}
+
+.aboutSite {
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.contactSocial {
+    width: 20%;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+
+/* 
+* Responsive Query
+*/
+@media (max-width: 900px) {
+    .pageName {
+        font-size: 24px;
+    }
+    
+    #menuBtn {
+        width: 50%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 5px;
+    }
+
+    #menuBtn svg {
+        cursor: pointer;
+    }
+
+    .topContentContainer {
+        z-index: -1;
+    }
+
+    #closeNavBtn {
+        display: block;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    .navMenus {
+        position: absolute;
+        z-index: 10;
+        right: 0;
+        top: 60px;
+        width: 100vw;
+        height: calc(100vh - 50px);
+        z-index: 1;
+        background-image: var(--primaryImg);
+        box-shadow: 0px 0 15px 5px rgba(0, 0, 0, 0.5);
+        visibility: hidden;
+    }
+
+    .navMenus ul {
+        margin: 10px 5px;
+        padding: 10px 0;
+        flex-direction: column;
+    }
+
+    #navItems li Link {
+        z-index: 1;
+        height: 7vh;
+        width: 70vw;
+    }
+}
+
+@media (min-width: 901px) {
+    #navItems ul {
+        visibility: visible;
+    }
+
+    .topContentContainer {
+        z-index: 0;
+    }
+}

@@ -1,0 +1,108 @@
+
+.smallContainer {
+    width: 70vw;
+}
+
+.detailsCard {
+    display: flex;
+    border-radius: 10px;
+    width: 100%;
+    margin: 30px auto;
+    padding: 20px;
+    backdrop-filter: blur(100px);
+    box-shadow: 0px 0 15px 8px rgba(0, 0, 0, 0.5);
+}
+
+.bookImage {
+    padding: 3px;
+    width: 20%;
+}
+
+.bookImage img {
+    height: 40vh;
+    width: 12vw;
+    border-radius: 8px;
+}
+
+.primaryDescription {
+    flex-direction: column;
+    width: 80%;
+    padding: 10px 20px;
+}
+
+#bookInfoTable {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+.attribute {
+    font-weight: bold;
+    padding: 3px 15px;
+    text-align: left;
+}
+
+.info {
+    padding: 3px 15px;
+    text-align: left;
+}
+
+.noBorder {
+    border: none;
+}
+
+
+.buttons {
+    align-items: flex-start;
+    width: 100%;
+    margin: 20px 0;
+    text-align: left;
+}
+
+.buttons button {
+    min-width: 100px;
+    height: 35px;
+    padding: 5px;
+    margin: 0 10px;
+    color: var(--primaryColor);
+    font-weight: bold;
+    
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0px 0 10px 1px rgba(0, 0, 0, 0.4);
+}
+.buttons button a{
+    color: var(--primaryColor);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.buttons button:hover{
+    transition: 0.2s;
+    translate: 0 -3px;
+}
+
+.detailedDescription {
+    width: 100%;
+    margin: 20px 0;
+}
+.detailedDescription div {
+    display: flex;
+    flex-direction: column;
+}
+
+.detailsTitle {
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.detailsData{
+    padding: 10px 0;
+}
+
+.reviewSection{
+    display: flex;
+    flex-direction: column;
+}

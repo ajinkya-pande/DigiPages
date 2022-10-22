@@ -1,0 +1,975 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2448,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "f7mjDwAAQBAJ",
+            "etag": "HRBKZZXeRb8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/f7mjDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Life’s Amazing Secrets",
+                "subtitle": "How to Find Balance and Purpose in Your Life",
+                "authors": [
+                    "Gaur Gopal Das"
+                ],
+                "publisher": "Penguin Random House India Private Limited",
+                "publishedDate": "2018-10-08",
+                "description": "Stop going through life, Start growing through life! While navigating their way through Mumbai's horrendous traffic, Gaur Gopal Das and his wealthy young friend Harry get talking, delving into concepts ranging from the human condition to finding one's purpose in life and the key to lasting happiness. Whether you are looking at strengthening your relationships, discovering your true potential, understanding how to do well at work or even how you can give back to the world, Gaur Gopal Das takes us on an unforgettable journey with his precious insights on these areas of life. Das is one of the most popular and sought-after monks and life coaches in the world, having shared his wisdom with millions. His debut book, Life's Amazing Secrets, distils his experiences and lessons about life into a light-hearted, thought-provoking book that will help you align yourself with the life you want to live.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789353052683"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9353052688"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 256,
+                "printType": "BOOK",
+                "categories": [
+                    "Literary Collections"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 5,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=f7mjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=f7mjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=f7mjDwAAQBAJ&pg=PP1&dq=top+books&hl=&as_brr=5&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=f7mjDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f7mjDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 250.16,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 70,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=f7mjDwAAQBAJ&rdid=book-f7mjDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 250160000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 70000000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Life_s_Amazing_Secrets-sample-epub.acsm?id=f7mjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Life_s_Amazing_Secrets-sample-pdf.acsm?id=f7mjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=f7mjDwAAQBAJ&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "While navigating their way through Mumbai&#39;s horrendous traffic, Gaur Gopal Das and his wealthy young friend Harry get talking, delving into concepts ranging from the human condition to finding one&#39;s purpose in life and the key to lasting ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "veNLDwAAQBAJ",
+            "etag": "olCdKEbesJI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/veNLDwAAQBAJ",
+            "volumeInfo": {
+                "title": "From the Top",
+                "authors": [
+                    "Dani Collins"
+                ],
+                "publisher": "Tule Publishing",
+                "publishedDate": "2018-02-27",
+                "description": "Their hot New Year’s Eve wasn’t supposed to have consequences… Fiercely independent after a difficult childhood, Ilke Lunquist devotes herself to one thing: skiing. She’s on the cusp of gold when an unexpected pregnancy throws her future into chaos. Nathaniel Hart takes on the daunting project of restoring Whiskey Jack Ski Resort to be close to his young son, but with one failed marriage behind him, he avoids serious relationships. They might be virtual strangers with only a baby in common, but Nate is determined to be part of his child's life. Ilke didn't become a champion by ever backing down from a challenge, especially not one where her child's happiness and her own heart are on the line. When tragedy strikes, heartbreak draws them closer together. Nate discovers he’s more than ready for a bigger family and maybe, just maybe, Ilke will find the home that has eluded her all her life.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781948342292"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1948342294"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=veNLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=veNLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=veNLDwAAQBAJ&pg=PP1&dq=top+books&hl=&as_brr=5&cd=2&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=veNLDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=veNLDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 465.56,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 325.89,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=veNLDwAAQBAJ&rdid=book-veNLDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 465560000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 325890000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/From_the_Top-sample-epub.acsm?id=veNLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/From_the_Top-sample-pdf.acsm?id=veNLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=veNLDwAAQBAJ&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Their hot New Year’s Eve wasn’t supposed to have consequences… Fiercely independent after a difficult childhood, Ilke Lunquist devotes herself to one thing: skiing."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "MJ2ZDwAAQBAJ",
+            "etag": "Q2+Zxx8Maf4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/MJ2ZDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Ayoade on Top",
+                "authors": [
+                    "Richard Ayoade"
+                ],
+                "publisher": "Faber & Faber",
+                "publishedDate": "2019-09-03",
+                "description": "Richard Ayoade - in this foren, perhaps one of the most 'insubstantial' people of our age, takes us on a journey from Peckham to Paris by way of Nevada and other places we don't care about. It's a journey deep within, in a way that's respectful and non-invasive; a journey for which we will all pay a heavy price, even if you've waited for the smaller paperback edition. Ayoade argues for the canonisation of this brutal masterpiece, a film that celebrates capitalism in all its victimless glory; one we might imagine Donald Trump himself half-watching on his private jet's gold-plated flat screen while his other puffy eye scans the cabin for fresh, young prey.\"",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780571339150"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0571339158"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 256,
+                "printType": "BOOK",
+                "categories": [
+                    "Performing Arts"
+                ],
+                "averageRating": 4.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.4.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=MJ2ZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=MJ2ZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=MJ2ZDwAAQBAJ&pg=PP1&dq=top+books&hl=&as_brr=5&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=MJ2ZDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MJ2ZDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 399,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 279.3,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=MJ2ZDwAAQBAJ&rdid=book-MJ2ZDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 399000000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 279300000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Ayoade_on_Top-sample-epub.acsm?id=MJ2ZDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Ayoade_on_Top-sample-pdf.acsm?id=MJ2ZDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=MJ2ZDwAAQBAJ&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "It&#39;s a journey deep within, in a way that&#39;s respectful and non-invasive; a journey for which we will all pay a heavy price, even if you&#39;ve waited for the smaller paperback edition."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ZYMNEAAAQBAJ",
+            "etag": "s65fL3IgMmE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZYMNEAAAQBAJ",
+            "volumeInfo": {
+                "title": "Over the Top",
+                "authors": [
+                    "Alison Hughes"
+                ],
+                "publisher": "Hachette UK",
+                "publishedDate": "2021-08-03",
+                "description": "From an award-winning author comes a funny and honest middle grade novel following Diva Cleopatra as she tries to adapt to her new home and school while coming face-to-face with the school's mean girls. Eleven-year-old Diva is horrified (but not surprised) that her mother's new dream home is a bright pink castle-like house. But the pink palace is only the beginning of a series of new humiliations. While acting as a glitzy mermaid for her Mom's party planning business, Diva is spotted by some classmates who won’t let her live it down. When she works up the courage to audition for her new school's play, she's cast in a surprising (and ridiculous) role. But it’s when her family throws her a huge surprise birthday party that things really lurch toward disaster. How can Diva stay true to her introverted, under-the-radar self in an in-your-face, over-the-top world?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780762473137"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0762473134"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 192,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZYMNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZYMNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=ZYMNEAAAQBAJ&printsec=frontcover&dq=top+books&hl=&as_brr=5&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=ZYMNEAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZYMNEAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 863.96,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 431.98,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=ZYMNEAAAQBAJ&rdid=book-ZYMNEAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 863960000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 431980000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Over_the_Top-sample-epub.acsm?id=ZYMNEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZYMNEAAAQBAJ&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "But it’s when her family throws her a huge surprise birthday party that things really lurch toward disaster. How can Diva stay true to her introverted, under-the-radar self in an in-your-face, over-the-top world?"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Bmt-DwAAQBAJ",
+            "etag": "+hUZZv4+ZUU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Bmt-DwAAQBAJ",
+            "volumeInfo": {
+                "title": "Over the Top",
+                "authors": [
+                    "Jonathan Van Ness"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2019-09-24",
+                "description": "‘Over The Top [is] a lightning bolt – devastating and stirring … generous and frank.’ The Guardian Who gave Jonathan Van Ness permission to be the radiant human he is today? No one, honey. The truth is, it hasn’t always been gorgeous for this beacon of positivity and joy. Before he stole our hearts as the grooming and self-care expert on Netflix’s hit show Queer Eye, Jonathan was growing up in a small Midwestern town that didn’t understand why he was so…over the top. From choreographed carpet figure skating routines to the unavoidable fact that he was Just. So. Gay., Jonathan was an easy target and endured years of judgement, ridicule and trauma - yet none of it crushed his uniquely effervescent spirit. Over the Top uncovers the pain and passion it took to end up becoming the model of self-love and acceptance that Jonathan is today. In this revelatory, raw, and rambunctious memoir, Jonathan shares never-before-told secrets and reveals sides of himself that the public has never seen. JVN fans may think they know the man behind the stiletto heels, the crop tops, and the iconic sayings, but there’s much more to him than meets the Queer Eye. You’ll laugh, you’ll cry, and you’ll come away knowing that no matter how broken or lost you may be, you’re a Kelly Clarkson song, you’re strong, and you’ve got this.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781471179938"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1471179931"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 400,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.5.4.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Bmt-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Bmt-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=Bmt-DwAAQBAJ&pg=PP1&dq=top+books&hl=&as_brr=5&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Bmt-DwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Bmt-DwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 350.46,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 245.32,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Bmt-DwAAQBAJ&rdid=book-Bmt-DwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 350460000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 245320000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Over_the_Top-sample-epub.acsm?id=Bmt-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Bmt-DwAAQBAJ&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Over the Top uncovers the pain and passion it took to end up becoming the model of self-love and acceptance that Jonathan is today."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Dn3YDAAAQBAJ",
+            "etag": "AvuNHeL3gLg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Dn3YDAAAQBAJ",
+            "volumeInfo": {
+                "title": "The Art of Top",
+                "subtitle": "",
+                "authors": [
+                    "Diego \"Quas\" Ruiz"
+                ],
+                "publisher": "John Quarnstrom",
+                "publishedDate": "2016-06-15",
+                "description": "A professionally written guide on Top-lane. If you're a League of Legends player looking to improve, not only will this guide teach you how to play top-lane efficiently, it will also teach you the correct mindset that players need to climb the solo queue ladder.",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 115,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Dn3YDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Dn3YDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=Dn3YDAAAQBAJ&pg=PA1&dq=top+books&hl=&as_brr=5&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Dn3YDAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Dn3YDAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 839.43,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 419.72,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Dn3YDAAAQBAJ&rdid=book-Dn3YDAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 839430000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 419720000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/The_Art_of_Top-sample-pdf.acsm?id=Dn3YDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Dn3YDAAAQBAJ&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "If you&#39;re a League of Legends player looking to improve, not only will this guide teach you how to play top-lane efficiently, it will also teach you the correct mindset that players need to climb the solo queue ladder."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JjqmXQfkMzgC",
+            "etag": "fYMupZvfI+I",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JjqmXQfkMzgC",
+            "volumeInfo": {
+                "title": "Housewife On Top",
+                "authors": [
+                    "Alison Penton Harper"
+                ],
+                "publisher": "Pan Macmillan",
+                "publishedDate": "2011-04-01",
+                "description": "‘I’ve left you a list on my desk,’ Rick said . . . The house fell silent and I wandered into the study to collect my instructions. There was only one scrawled piece of paper on the desk so there was no mistaking the single command. It said: organize Christmas. Helen is finally finding her feet just in time for the looming festive season. Surrounded by family, friends and the finer things in life, Helen’s generous offer to organize Christmas for the neurotic Leoni soon snowballs into an unmanageable avalanche of tasks when her chaotic boss dumps his seasonal arrangements on her too. And with Julia heading towards a mind-boggling midlife crisis of her own, it looks as though Helen is well and truly stuffed! And so it begins, the season of good grief to all women . . . Praise for Alison Penton Harper: 'Laugh-a-minute, frothy fun' Sunday Express",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780330529693"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0330529692"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 288,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.7.5.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JjqmXQfkMzgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JjqmXQfkMzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=JjqmXQfkMzgC&printsec=frontcover&dq=top+books&hl=&as_brr=5&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=JjqmXQfkMzgC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JjqmXQfkMzgC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 505.71,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 252.86,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=JjqmXQfkMzgC&rdid=book-JjqmXQfkMzgC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 505710000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 252860000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Housewife_On_Top-sample-epub.acsm?id=JjqmXQfkMzgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JjqmXQfkMzgC&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "And so it begins, the season of good grief to all women . . . Praise for Alison Penton Harper: &#39;Laugh-a-minute, frothy fun&#39; Sunday Express"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "bhGtYgZyOxwC",
+            "etag": "6khODjJHmvA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/bhGtYgZyOxwC",
+            "volumeInfo": {
+                "title": "The View from the Top",
+                "authors": [
+                    "Hillary Frank"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2010-05-13",
+                "description": "Eighteen-year-old Anabelle?s last few months in her coastal hometown are bittersweet. Instead of the quiet precollege summer she expects, Anabelle makes some surprising discoveries about herself as she navigates romantic entanglements and changing friendships. Through shifting points of view in seven interconnected stories, we glimpse the limits of how well her friends really know Anabelle . . . and how little she grasps about the way they see her. With wry observations and quirky humor, critically acclaimed novelist Hillary Frank gives voice and depth to six unique characters whose stories intertwine to form a complete picture of one shared summer.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781101432914"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1101432918"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 272,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.5.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=bhGtYgZyOxwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=bhGtYgZyOxwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=bhGtYgZyOxwC&printsec=frontcover&dq=top+books&hl=&as_brr=5&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=bhGtYgZyOxwC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bhGtYgZyOxwC"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 715.89,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 357.94,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=bhGtYgZyOxwC&rdid=book-bhGtYgZyOxwC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 715890000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 357940000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/The_View_from_the_Top-sample-epub.acsm?id=bhGtYgZyOxwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=bhGtYgZyOxwC&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "With wry observations and quirky humor, critically acclaimed novelist Hillary Frank gives voice and depth to six unique characters whose stories intertwine to form a complete picture of one shared summer."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "8aX1DwAAQBAJ",
+            "etag": "KwpP8hi8Evo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/8aX1DwAAQBAJ",
+            "volumeInfo": {
+                "title": "Intimacies",
+                "subtitle": "A New York Times Top 10 Book of 2021",
+                "authors": [
+                    "Katie Kitamura"
+                ],
+                "publisher": "Random House",
+                "publishedDate": "2021-08-05",
+                "description": "'She reminds me how high the moral stakes of fiction can be' Garth Greenwell An interpreter has come to The Hague to escape New York and work at the International Court. She's drawn into simmering personal dramas. Her lover, Adriaan, is separated from his wife but still entangled in his marriage. Her friend Jana witnesses a seemingly random act of violence, a crime the interpreter becomes increasingly obsessed with as she befriends the victim's sister. And she's pulled into an explosive political controversy when she's asked to interpret for a former president accused of war crimes. She is soon pushed to the precipice, where betrayal and heartbreak threaten to overwhelm her, forcing her to decide what she wants from her life. 'Kitamura has made the existential thriller all her own...simply stunning' Brandon Taylor 'Charged with tension and power' Avni Doshi 'Gorgeous, destabilising' Raven Leilani",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781473572478"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1473572479"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 144,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 15,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.5.5.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=8aX1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=8aX1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=8aX1DwAAQBAJ&printsec=frontcover&dq=top+books&hl=&as_brr=5&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=8aX1DwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8aX1DwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 707.11,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 353.56,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=8aX1DwAAQBAJ&rdid=book-8aX1DwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 707110000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 353560000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Intimacies-sample-epub.acsm?id=8aX1DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=8aX1DwAAQBAJ&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&#39;Kitamura has made the existential thriller all her own...simply stunning&#39; Brandon Taylor &#39;Charged with tension and power&#39; Avni Doshi &#39;Gorgeous, destabilising&#39; Raven Leilani"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "5F-CLpR3YZ8C",
+            "etag": "sQAYxmXAP8o",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/5F-CLpR3YZ8C",
+            "volumeInfo": {
+                "title": "Life on Top",
+                "authors": [
+                    "Clara Darling"
+                ],
+                "publisher": "St. Martin's Griffin",
+                "publishedDate": "2009-10-13",
+                "description": "Sex, shopping, and sisterhood – for three young women in Manhattan, it's all about living life on top. Sophie Steele, twenty-two and fresh out of business school, thinks she has it all: beauty, an MBA, and a high-powered job at a hedge fund in New York City. But Sophie's about to uncover a whole new life – a life filled with beautiful people, exclusive parties, and tantalizingly hot sex – when she moves into her older sister Bella's fabulous Tribeca penthouse apartment. Bella Steele, a Penthouse Pet and Manhattan's hottest glamour model, can have her pick of rich, sexy guys eager to satisfy her every desire, and Sophie can't help but feel envious of her exciting, girl-about-town lifestyle. When her super-hot boss makes her an erotic offer she can't refuse, Sophie takes Bella's advice and starts to explore her wild side. Meanwhile, Bella's about to start some erotic experimenting of her own. She introduces Sophie and her best friend Maya Lin to Naked, the city's sexiest gym, where anything goes. It's there that Maya finds release through submission in an edgy, dark relationship with her boxing trainer, D, and all three girls let their passion take them over the top.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781429919296"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1429919299"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 224,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.7.8.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=5F-CLpR3YZ8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=5F-CLpR3YZ8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.in/books?id=5F-CLpR3YZ8C&printsec=frontcover&dq=top+books&hl=&as_brr=5&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=5F-CLpR3YZ8C&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5F-CLpR3YZ8C"
+            },
+            "saleInfo": {
+                "country": "IN",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 558.83,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amount": 279.42,
+                    "currencyCode": "INR"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=5F-CLpR3YZ8C&rdid=book-5F-CLpR3YZ8C&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 558830000,
+                            "currencyCode": "INR"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 279420000,
+                            "currencyCode": "INR"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "IN",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.in/books/download/Life_on_Top-sample-epub.acsm?id=5F-CLpR3YZ8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=5F-CLpR3YZ8C&hl=&as_brr=5&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Sex, shopping, and sisterhood – for three young women in Manhattan, it&#39;s all about living life on top."
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+/* 
+* Primary and Utility CSS 
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+
+:root {
+    --primaryColor: white;
+    --secondaryColor: black;
+    --primaryLG: linear-gradient(45deg, rgb(254, 159, 7), rgb(248, 212, 51), rgb(252, 246, 133));
+    --secondaryLG: linear-gradient(45deg, rgb(60, 200, 255), rgb(65, 95, 255), rgb(205, 110, 255));
+    --primaryImg: url("../Images/WebsiteWallpapaer.jpg");
+}
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.primaryContainer {
+    max-width: 85vw;
+    margin: auto;
+}
+
+.displayFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    width: 40px;
+    height: 30px;
+    margin: 0 5px;
+    color: var(--primaryColor);
+    cursor: pointer;
+}
+
+svg:hover {
+    transition: 0.2s;
+    translate: 0 -3px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: var(--primaryColor);
+
+    background-image: var(--primaryImg);
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover; 
+}
