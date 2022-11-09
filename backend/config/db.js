@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 //Assign MongoDB connection string to Uri and declare options settings
-var uri = "<mongodb connect url>"
+var uri = "mongodb+srv://admin:admin123@cluster-1.zivc6el.mongodb.net/?retryWrites=true&w=majority"
 
 // Connect MongoDB Atlas using mongoose connect method
 const connectToDatabase = () => {
