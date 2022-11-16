@@ -43,10 +43,10 @@ export default class Login extends Component {
       let msgDiv = document.getElementById('registerAlert');
       msgDiv.innerHTML = data.message;
       msgDiv.style.display = "flex";
-      if(data.type=="success") {msgDiv.style.color = "green";}
-      else if(data.type=="error") {msgDiv.style.color = "crimson";}
+      if(data.type==="success") {msgDiv.style.color = "green";}
+      else if(data.type==="error") {msgDiv.style.color = "crimson";}
       
-      if(data.message=="Registered Successfully.") {
+      if(data.message==="Registered Successfully.") {
         setTimeout(this.showLogin,3000);
       }
     }
@@ -82,10 +82,10 @@ export default class Login extends Component {
       let msgDiv = document.getElementById('loginAlert');
       msgDiv.innerHTML = data.message;
       msgDiv.style.display = "flex";
-      if(data.type=="success") {msgDiv.style.color = "green";}
-      else if(data.type=="error") {msgDiv.style.color = "crimson";}
+      if(data.type==="success") {msgDiv.style.color = "green";}
+      else if(data.type==="error") {msgDiv.style.color = "crimson";}
 
-      if(data.message=="Login Successfully.") {
+      if(data.message==="Login Successfully.") {
         this.props.setUser({user:data.user});
       }
     }

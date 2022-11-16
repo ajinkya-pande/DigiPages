@@ -21,7 +21,7 @@ export default class BooksDisplay extends Component {
   }
 
   async componentDidMount() {
-    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=<Your API Key>&maxResults=40&filter=ebooks&startIndex=${this.state.startIndex}`);
+    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=AIzaSyA2rCOLbXaectwHICNs9rVl9x0X8tc5pE8&maxResults=40&filter=ebooks&startIndex=${this.state.startIndex}`);
     this.setState({loading:true});
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -33,7 +33,7 @@ export default class BooksDisplay extends Component {
   handleNext = async () => {
     console.log("next");
     this.setState({startIndex : this.state.startIndex+39})
-    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=<Your API Key>&maxResults=40&filter=ebooks&startIndex=${Math.abs(this.state.startIndex)}`);
+    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=AIzaSyA2rCOLbXaectwHICNs9rVl9x0X8tc5pE8&maxResults=40&filter=ebooks&startIndex=${Math.abs(this.state.startIndex)}`);
     this.setState({loading:true});
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -44,7 +44,7 @@ export default class BooksDisplay extends Component {
   handlePrev = async () => {
     console.log("previous");
     this.setState({startIndex : this.state.startIndex-39})
-    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=<Your API Key>&maxResults=40&filter=ebooks&startIndex=${Math.abs(this.state.startIndex)}`);
+    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=AIzaSyA2rCOLbXaectwHICNs9rVl9x0X8tc5pE8&maxResults=40&filter=ebooks&startIndex=${Math.abs(this.state.startIndex)}`);
     this.setState({loading:true});
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -57,7 +57,7 @@ export default class BooksDisplay extends Component {
     let arr = this.state.searchKey.split(" ");
     let search = arr.join("+");
     await this.setState({searchQuery:search,startIndex:0});
-    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=<Your API Key>&maxResults=40&filter=ebooks&startIndex=${Math.abs(this.state.startIndex)}`);
+    let url = (`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchQuery}&key=AIzaSyA2rCOLbXaectwHICNs9rVl9x0X8tc5pE8&maxResults=40&filter=ebooks&startIndex=${Math.abs(this.state.startIndex)}`);
     this.setState({loading:true});
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -98,8 +98,9 @@ export default class BooksDisplay extends Component {
           {this.state.loading && <img src={loadingGif} alt="Loading"/>}
           {!this.state.loading && this.state.items.map((object) => {
             return (
-              <div key={object.id} onClick={()=>{return setBookInfo(object.id)}}>
-              <BookItem title={object.volumeInfo.title} imgUrl={object.volumeInfo.imageLinks.thumbnail}/></div>
+              <div key={object.id} onClick={()=>{setBookInfo(object.id)}}>
+
+              <BookItem title={object.volumeInfo.title} imgUrl={object.volumeInfo.imageLinks.thumbnail} infolink={object.selflink}/></div>
             )
           })}
         </div>
