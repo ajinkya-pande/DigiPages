@@ -1,6 +1,6 @@
-# digiPages - Books and Journals Webpage
+# DigiPages - Books and Journals Webpage
 
-<p>This website is developed to demonstrate the use and functioning of REST API, User authenticaion and database connectivity in MERN stack.</p>
+<p>This website is developed to demonstrate the use and functioning of REST API, User authenticaion and database connectivity in MERN stack. It elaborates the use of various methods in React.Js in frontend and Node.Js in backend for connectivity and convenience</p>
 
 
 ## Overview
